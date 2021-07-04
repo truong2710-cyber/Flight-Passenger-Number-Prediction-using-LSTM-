@@ -1,1 +1,3 @@
-# Flight-Passenger-Number-Prediction-using-LSTM-
+# Flight Passenger Number Prediction
+Using LSTM
+Memory between batches
